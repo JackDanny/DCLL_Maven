@@ -20,6 +20,7 @@ public class App
     	Document doc=builder.build("pom.xml");
     	System.out.println(doc.toXML());
     	System.out.println("wahou");
+    	System.out.println("wihou");
     	
     	
     
